@@ -1,2 +1,3 @@
 # rein
-hello! Github
+计算机学习
+numpy #完成
